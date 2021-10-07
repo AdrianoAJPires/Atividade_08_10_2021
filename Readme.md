@@ -1,4 +1,3 @@
-Readme.me
 Aplicações Web
 
 Na atividade foi escolhido desenvolver o cadastro de informações sobre pacientes de um hospital.
